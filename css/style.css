@@ -1,0 +1,74 @@
+body {
+    font-size: 15px;
+}
+
+.container {
+    margin: 20px 10px 30px 10px;
+    padding: 0 0 0 10px;
+}
+
+.title_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1D90FF;
+    height: 50px;
+}
+
+.text_container{
+    margin: 10px 0 10px 0;
+}
+
+.skills_container {
+    text-align: left;
+    background-color: #D3D3D3;
+    height: 20px;
+    padding: 0;
+}
+
+.text_skills_container {
+    margin: 0 0 0 30px;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    color: #1D90FF;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+span {
+    font-weight: bold;
+}
+
+span.education {
+    font-style: italic;
+    font-weight: normal;
+}
+
+span.position {
+    color: #090582;
+}
+
+span.company_list{
+    font-size: 18px;
+    color: #DAA520;
+}
+
+span.skills {
+    font-weight: normal;
+    color: white;
+}
+
+
+
+
+
